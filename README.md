@@ -1,7 +1,14 @@
-# JavaScript Algorithms, Design Patterns, and Techniques
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nas5w/javascript-patterns/master/logo.png" alt="JavaScript Algorithms, Design Patterns, and Techniques" />
+
+&nbsp;
 
 ![Build Status](https://travis-ci.org/nas5w/javascript-patterns.svg?branch=master)
 [![Codecov Status](https://codecov.io/gh/nas5w/javascript-patterns/branch/master/graph/badge.svg)](https://codecov.io/gh/nas5w/javascript-patterns/branch/master)
+
+</div>
+<br />
 
 This repository contains common algorithms, design patters, and techniques implemented in JavaScript. Code here is best used for learning purposes and practice. [Contributing](#Contributing) to this repo is appreciated and requested, especially if you're trying to learn JavaScript!
 
@@ -17,12 +24,10 @@ This repository contains common algorithms, design patters, and techniques imple
   - Quick Sort
   - TODO: Bucket Sort
   - Heap Sort
-  - TODO: Counting Sort
-  - TODO: Internal Sort
-  - TODO: External SOrt
+  - Counting Sort
   - Bubble Sort
-  - TODO: Selection Sort
-  - TODO: Insertion Sort
+  - Selection Sort
+  - Insertion Sort
 
 - Searching
 
@@ -39,7 +44,8 @@ This repository contains common algorithms, design patters, and techniques imple
 
 - Observer
 - Revealing Module (Tests needed)
-- Singleton (Tests needed)
+- Singleton
+- Builder
 - TODO: Factory
 - TODO: Adapter
 - TODO: Bridge
